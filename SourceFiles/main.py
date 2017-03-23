@@ -14,6 +14,10 @@ def main():
     #InstagramAPI(access_token=access_token, client_secret=client_secret)
     api = auth(access_token, client_secret)
 
+    #api.media_search(q, count, lat, lng, min_timestamp, max_timestamp)
+    print(api.location('2593354')) #Uses the Eiffel Tower Location ID
+
+    #api.location_recent_media(count, max_id, location_id)*
 
 
 
