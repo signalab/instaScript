@@ -1,0 +1,69 @@
+{
+  "meta":
+  {
+    "code": 200
+  },
+  "data":
+  [
+    {
+      "latitude": 20.607558877936, "name": "ITESO, Universidad Jesuita de Guadalajara", "longitude": -103.4148257093, "id": "213351762"
+    },
+    {
+      "latitude": 20.6084, "name": "ITESO", "longitude": -103.4167, "id": "389500494"
+    },
+    {
+      "latitude": 20.580056, "name": "Tlaquepaque, Jalisco", "longitude": -103.371339, "id": "212934595"
+    },
+    {
+      "latitude": 20.6667, "name": "Guadalajara, Jalisco", "longitude": -103.35, "id": "214800027"
+    },
+    {
+      "latitude": 20.611515337362, "name": "Easy Fit Iteso", "longitude": -103.41566221799, "id": "1022192613"
+    },
+    {
+      "latitude": 20.607125819, "name": "ITESO, edificio A", "longitude": -103.41508286966, "id": "275067376"
+    },
+    {
+      "latitude": 20.606134575258, "name": "Iteso, Edificio Q", "longitude": -103.41481724402, "id": "1978816"
+    },
+    {
+      "latitude": 19.2433, "name": "Colima City", "longitude": -103.725, "id": "237723736"
+    },
+    {
+      "latitude": 20.600795627185, "name": "Parques Del Bosque", "longitude": -103.41512588688, "id": "114537056"
+    },
+    {
+      "latitude": 20.601620437549, "name": "Cinepolis centro sur", "longitude": -103.40226721777, "id": "313711413"
+    },
+    {
+      "latitude": 20.605993, "name": "Biblioteca Dr. Jorge Villalobos Padilla, S.J.", "longitude": -103.415487, "id": "752771514823805"
+    },
+    {
+      "latitude": 20.612058901412, "name": "Estaci\xf3n 22 Sur", "longitude": -103.41497182846, "id": "1802776823344736"
+    },
+    {
+      "latitude": 20.607278397679, "name": "UVM campus Guadalajara Sur", "longitude": -103.40941445178, "id": "330025578"
+    },
+    {
+      "latitude": 20.604004976797, "name": "Wingman Parques del Bosque - Por ITESO", "longitude": -103.41166734695, "id": "944004524"
+    },
+    {
+      "latitude": 20.610200283957, "name": "Laberinto De Bacco", "longitude": -103.41284579444, "id": "992154078"
+    },
+    {
+      "latitude": 20.6088522, "name": "El Mante Guadalajara", "longitude": -103.4217826, "id": "871161118"
+    },
+    {
+      "latitude": 20.61107683, "name": "TeleTech", "longitude": -103.41763043, "id": "1580891558880787"
+    },
+    {
+      "latitude": 20.59914, "name": "Fracc Parques de Santa Mar\xeda", "longitude": -103.41894, "id": "1032506307"
+    },
+    {
+      "latitude": 20.606694442531, "name": "Gym ITESO", "longitude": -103.41350589356, "id": "16970591"
+    },
+    {
+      "latitude": 20.611684193375, "name": "Carl\"s Jr Iteso", "longitude": -103.41575464226, "id": "420870946"
+    }
+  ]
+}

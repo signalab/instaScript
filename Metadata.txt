@@ -1,0 +1,13 @@
+access token:
+#Rivers app (http://services.chrisriversdesign.com/instagram-token/)
+2613384557.e029fea.3eeef32d7a0d4502b0bf3b87655d1927
+
+MyID:
+2613384557
+
+ITESO location_id:
+'213351762'
+
+ITESO lat and lng
+latitude = '20.606686' #20.607558877936
+longitude = '-103.415787' #-103.4148257093
